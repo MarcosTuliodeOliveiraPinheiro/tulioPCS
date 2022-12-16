@@ -19,7 +19,6 @@ Marcos Túlio de Oliveira Pinheiro
 
 [iReport-5.6.0](https://sourceforge.net/projects/ireport/)
 
-[Inno Setup](https://jrsoftware.org/isinfo.php)
 ## Instalação do Projeto modelo
 Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local (Windows) para fins de desenvolvimento e testes. Esse projeto
 pode ser utilizado para ser implantado em um sistema ativo
