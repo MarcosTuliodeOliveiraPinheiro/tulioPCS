@@ -20,7 +20,7 @@ Marcos Túlio de Oliveira Pinheiro
 [iReport-5.6.0](https://sourceforge.net/projects/ireport/)
 
 [Inno Setup](https://jrsoftware.org/isinfo.php)
-## Instalação do Projeto mofelo
+## Instalação do Projeto modelo
 Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local (Windows) para fins de desenvolvimento e testes. Esse projeto
 pode ser utilizado para ser implantado em um sistema ativo
 ### Pré requisitos:
@@ -33,7 +33,7 @@ pode ser utilizado para ser implantado em um sistema ativo
 * Faça a importação do DUMP deste projeto (localizada na pasta banco) selecionando o banco de dados dbtuliopcs
 * Em "Releases" Faça o download do instalador infoX
 * Execute a instalação. Na tela de login faça a autenticação com o usuário "admin" usando a senha "admin"
-## Como apoiar os cursos gratuitos e projetos?
+## Como apoiar o projeto?
 ### Você pode:
 
 :heavy_check_mark: Compartilhar o projeto
