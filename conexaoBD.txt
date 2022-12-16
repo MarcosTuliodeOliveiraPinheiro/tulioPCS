@@ -1,0 +1,14 @@
+Tipo do Banco:
+Mysql (Oracle)
+
+Caminho:
+//127.0.0.1:3306
+ou
+//localhost:3306
+
+Nome:
+dbinfox
+
+Autenticação:
+user = "root"
+password = " "
